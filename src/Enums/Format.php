@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\WikitextParser\Enums;
+namespace JordJD\WikitextParser\Enums;
 
 abstract class Format
 {

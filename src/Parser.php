@@ -1,9 +1,9 @@
 <?php
 
-namespace DivineOmega\WikitextParser;
+namespace JordJD\WikitextParser;
 
-use DivineOmega\DOFileCachePSR6\CacheItemPool;
-use DivineOmega\WikitextParser\Enums\Format;
+use JordJD\DOFileCachePSR6\CacheItemPool;
+use JordJD\WikitextParser\Enums\Format;
 use Psr\Cache\CacheItemPoolInterface;
 
 class Parser

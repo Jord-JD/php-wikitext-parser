@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\WikitextParser;
+namespace JordJD\WikitextParser;
 
 class Utils
 {

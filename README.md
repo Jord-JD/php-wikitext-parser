@@ -7,7 +7,7 @@ Just run the following Composer command at the root of
 your project.
 
 ```bash
-composer require divineomega/php-wikitext-parser
+composer require jord-jd/php-wikitext-parser
 ```
 
 ## Usage
